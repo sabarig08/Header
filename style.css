@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+   display: inline;
+   padding: 20px;
+
+
+}
+ul{
+    background-color: rgb(0, 170, 255);
+    padding: 30px;
+    color: white;
+}
+div{
+    text-align: center;
+}
